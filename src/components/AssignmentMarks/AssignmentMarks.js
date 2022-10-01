@@ -46,6 +46,7 @@ const AssignmentMarks = () => {
             amt: 2100
         }
     ];
+
     return (
         <div>
             <LineChart

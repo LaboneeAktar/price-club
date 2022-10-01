@@ -50,7 +50,7 @@ const AssignmentMarks = () => {
     return (
         <div>
             <LineChart
-                width={500}
+                width={800}
                 height={400}
                 data={data}
                 margin={{
@@ -67,7 +67,7 @@ const AssignmentMarks = () => {
             </LineChart>
 
             <AreaChart
-                width={500}
+                width={800}
                 height={400}
                 data={data}
                 margin={{
